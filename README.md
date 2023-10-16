@@ -2,14 +2,18 @@
 A spammer for NGL (ngl.link)
 
 ## Made by t0int
-Thanks for using! If you have any questions, feel free to contact me on Discord: t0int#1337
+Thanks for using this! If you have any questions, feel free to contact me on Discord: @t0int 
+
 
 ### Warning!
-The username needs to be the username inside the link, not the username of the person who created the link.
-For example:
-https://ngl.link/adam17104
-                          ^^^
-The username is adam17104
+The username must be the username inside the link, not the username of the person who created the link. <br>
+For example:<br>
+https://ngl.link/adam17104<br>
+On this text the username is **adam17104**
+
+### How to avoid CloudFlare
+This project already uses Cloudscrape which allows the script to post the messages better
+But when you spam a lot of text you can get detected. (It's not permanent)
 
 ## Installation
 ```bash
@@ -22,7 +26,7 @@ pip3 install -r requirements.txt
 ```bash
 python3 main.py
 ```
-or
+### or
 ```bash
 py -3 main.py
 ```

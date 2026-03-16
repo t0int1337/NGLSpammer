@@ -2,7 +2,7 @@
 A spammer for NGL (ngl.link)
 
 ## Made by t0int
-Thanks for using this! If you have any questions, feel free to contact me on Discord: @t0int 
+Thanks for using this! If you have any questions, feel free to contact me on Telegram: @t0int 
 
 
 ### Warning!
